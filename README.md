@@ -6,7 +6,7 @@
 <br>
 Dieses Programm dient zur **erleichterung/bewertung** eines Projektes. Ebenso Unterstützt das Programm eine Vollwertige **To-Do** Funktion, wo To-Do's erstellt, als abgeschlossen oder bearbeitet werden können!
 
-#### Dies sieht in etwa so aus
+#### Diese sieht in etwa so aus
 <br>
 [] Todo 1 <br>
 [] Todo 2 <br>
