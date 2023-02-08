@@ -15,11 +15,9 @@ Dieses Programm dient zur **erleichterung/bewertung** eines Projektes. Ebenso Un
 
 <br>
 
-```html 
-<html>
-    <head>
-    </head>
-</head>
+```c#
+Console.WriteLine("Hello there");
+
 ```
 
 <br>
